@@ -1,0 +1,27 @@
+_repo: Good-Councell-against-the-plague-Shewing-sundry-present-preseruatiues-for-the-same-by-wholsom__62182
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Learned phisition
+    gutenberg_agent_id: '51812'
+    url: http://www.gutenberg.org/2009/agents/51812
+description: ''
+gutenberg_issued: '2020-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62182'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plague -- Prevention -- Early works to 1800'
+- !lcsh 'Plague -- Treatment -- Early works to 1800'
+- !lcc 'RC'
+- GITenberg
+title: "Good Councell against the plague\r\nShewing sundry present preseruatiues for\
+  \ the same, by wholsome fumes, drinks, vomits, and other inward receits: as also,\
+  \ the perfect cure (by implaysture) of any that are therewith infected. Now necessary\
+  \ to be obserued of euery housholder, to auoyde the infection, lately begun in some\
+  \ places of this cittie."
+url: http://www.gutenberg.org/ebooks/62182
