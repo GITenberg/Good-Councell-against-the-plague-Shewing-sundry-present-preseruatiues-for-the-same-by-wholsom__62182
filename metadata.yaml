@@ -1,11 +1,16 @@
 _repo: Good-Councell-against-the-plague-Shewing-sundry-present-preseruatiues-for-the-same-by-wholsom__62182
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62182-h/images/cover.jpg
 creator:
   author:
     agent_name: Learned phisition
     gutenberg_agent_id: '51812'
     url: http://www.gutenberg.org/2009/agents/51812
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62182#Good-Councell-against-the-plague-Shewing-sundry-present-preseruatiues-for-the-same-by-wholsom_
 gutenberg_issued: '2020-05-20'
 gutenberg_type: Text
 identifiers:
